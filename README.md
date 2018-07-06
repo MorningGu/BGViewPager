@@ -1,0 +1,2 @@
+# BGViewPager
+一个带背景色viewpager，且背景和viewpager有联动效果
