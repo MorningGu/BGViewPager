@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.example.hero.bgviewpager.view.ViewPagerBg
+        android:id="@+id/banner_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <com.example.hero.bgviewpager.view.ViewPagerWrapper
+        android:id="@+id/pager"
+        android:layout_width="320dp"
+        android:layout_height="163dp"
+        android:layout_gravity="bottom|center_horizontal"
+        >
+
+    </com.example.hero.bgviewpager.view.ViewPagerWrapper>
+
+</FrameLayout>
